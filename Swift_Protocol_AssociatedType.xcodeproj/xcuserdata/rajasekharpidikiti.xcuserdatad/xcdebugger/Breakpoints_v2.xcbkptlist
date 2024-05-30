@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4FE6930-0876-435D-B62E-432C7AEE5529"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9727478-C996-401B-9106-79132DCD4955"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift_Protocol_AssociatedType/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D9727478-C996-401B-9106-79132DCD4955 - 9c08a1db031dbb1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Protocol_AssociatedType.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Swift_Protocol_AssociatedType"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajasekharpidikiti/Desktop/SwiftUI/Swift/Swift_Protocol_AssociatedType/Swift_Protocol_AssociatedType/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "D9727478-C996-401B-9106-79132DCD4955 - 9c08a1db031dbb1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Protocol_AssociatedType.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Swift_Protocol_AssociatedType"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajasekharpidikiti/Desktop/SwiftUI/Swift/Swift_Protocol_AssociatedType/Swift_Protocol_AssociatedType/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "D9727478-C996-401B-9106-79132DCD4955 - 9c08a1db031dbb1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Protocol_AssociatedType.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Swift_Protocol_AssociatedType"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajasekharpidikiti/Desktop/SwiftUI/Swift/Swift_Protocol_AssociatedType/Swift_Protocol_AssociatedType/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB7626FB-EAC6-4CA5-BD86-C4A1DB66B568"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift_Protocol_AssociatedType/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB7626FB-EAC6-4CA5-BD86-C4A1DB66B568 - 9c08a1db031dba9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Protocol_AssociatedType.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Swift_Protocol_AssociatedType"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajasekharpidikiti/Desktop/SwiftUI/Swift/Swift_Protocol_AssociatedType/Swift_Protocol_AssociatedType/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "DB7626FB-EAC6-4CA5-BD86-C4A1DB66B568 - 9c08a1db031dba9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift_Protocol_AssociatedType.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Swift_Protocol_AssociatedType"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajasekharpidikiti/Desktop/SwiftUI/Swift/Swift_Protocol_AssociatedType/Swift_Protocol_AssociatedType/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68A87B2A-0C93-40A7-BCB1-AC61EE9F27E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift_Protocol_AssociatedType/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
