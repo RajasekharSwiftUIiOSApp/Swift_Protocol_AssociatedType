@@ -22,6 +22,9 @@ vim .gitignore
 
 ############################## How to check for changes on remote (origin) Git repository  #######################################
 
+1. git remote update
+2. git status
+
 
 
 
