@@ -19,3 +19,10 @@ vim .gitignore
 3. Now you will see the terminal like this, then paste it! the text provided by the sight gitignore.io
 
 4. To save and quit use command :wq
+
+############################## How to check for changes on remote (origin) Git repository  #######################################
+
+
+
+
+
